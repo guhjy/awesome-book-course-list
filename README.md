@@ -1,4 +1,4 @@
-# awesome-book-course-list
+# 超棒的课程和书籍列表 awesome book and course list
 
 ## Book with Course
 
