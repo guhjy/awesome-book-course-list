@@ -1,4 +1,4 @@
-# 超棒的课程和书籍列表 awesome book and course list
+# 超棒的课程和书籍列表
 
 ## Book with Course
 
@@ -45,7 +45,44 @@
 - 9 Ways to Make Big Data Visual
 [Blogger](https://www.import.io/post/9-ways-make-big-data-visual/)
 
+- ACCELERATE R BY PARALLEL TECHNOLOGY
+[Blogger](http://www.parallelr.com/)
+
+- Welcome to r-statistics.co
+[blogger](http://r-statistics.co/)
+
+- **segmentfault** 中文网站 包含问答和文章
+[Blogger](https://segmentfault.com/t/r/blogs)
+
+- Bruno Rodrigues
+[homepage](http://www.brodrigues.co/)
+
+- Thomas Lin Pedersen
+[homepage](http://www.data-imaginist.com/)
+
+- data science +
+[homepage](https://datascienceplus.com/)
+
+- Transforming science through open data
+[homepage](https://ropensci.org/)
+
+- CYBAEA
+[homepage](http://www.cybaea.net/)
+
 ## Book
+
+- Social Network Analysis in Education
+ [github](https://github.com/meefen/sna-ed)
+ [online](https://bookdown.org/chen/snaEd/)
+ [pdf](https://bookdown.org/chen/snaEd/snaEd.pdf)
+
+- Functional programming and unit testing for data munging with R
+[online](http://www.brodrigues.co/fput/)
+[pdf](http://www.brodrigues.co/fput/fp_tdd_data.pdf)
+
+- Efficient R programming
+[github](https://github.com/csgillespie/efficientR)
+[online](https://csgillespie.github.io/efficientR/)
 
 - Modern Data Science with R
 [homepage](https://mdsr-book.github.io/)
@@ -74,3 +111,40 @@
 
 - R Graphics (Second Edition)
 [homepage](https://www.stat.auckland.ac.nz/~paul/RG2e/index.html)
+
+-  R Graphics Cookbook
+[homepage](http://www.cookbook-r.com/)
+
+## videos
+
+- useR! 2016 international R User conference
+[video](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
+
+- useR! International R User 2017 Conference
+[video](https://channel9.msdn.com/Events/useR-international-R-User-conferences/useR-International-R-User-2017-Conference)
+
+- PyData Seattle 2017
+[video](https://channel9.msdn.com/Events/PyData/Seattle2017)
+
+## visualization 
+
+注：图的名称采用D3给的例子，[D3图库](https://github.com/d3/d3/wiki/Gallery)
+
+- **Streamgraph** 
+Millennial generation is bigger, more diverse than boomers
+[blogger](http://money.cnn.com/interactive/economy/diversity-millennials-boomers/)
+
+- global weather conditions
+[blogger](https://earth.nullschool.net/)
+![image](http://memory.org/point.b/detail.two.png)
+
+- **Sankey Diagrams**
+An Interactive Visualization of NYC Street Trees
+[blogger](https://www.cloudred.com/labprojects/nyctrees/#about)
+
+- maptive 地图可视化
+[Blogger](https://www.maptive.com/blog/)
+
+- migration and forecast components of population change
+[Blogger](https://gjabel.wordpress.com/)
+![image](https://gjabel.files.wordpress.com/2014/06/gjabelwc2014t3.png)
