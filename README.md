@@ -136,7 +136,7 @@ Millennial generation is bigger, more diverse than boomers
 
 - global weather conditions
 [blogger](https://earth.nullschool.net/)
-![image](http://memory.org/point.b/detail.two.png)
+<img src="http://memory.org/point.b/detail.two.png" width="50%" />
 
 - **Sankey Diagrams**
 An Interactive Visualization of NYC Street Trees
@@ -147,4 +147,15 @@ An Interactive Visualization of NYC Street Trees
 
 - migration and forecast components of population change
 [Blogger](https://gjabel.wordpress.com/)
-![image](https://gjabel.files.wordpress.com/2014/06/gjabelwc2014t3.png)
+<img src="https://gjabel.files.wordpress.com/2014/06/gjabelwc2014t3.png" width="50%" />
+
+# 专家学者主页
+
+## 中国人
+
+- [李润泽](http://www.personal.psu.edu/ril4/)
+<img src="http://www.personal.psu.edu/ril4/image/photo.JPG" width="25%" height="50%" />
+
+
+
+
