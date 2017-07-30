@@ -154,8 +154,21 @@ An Interactive Visualization of NYC Street Trees
 ## 中国人
 
 - [李润泽](http://www.personal.psu.edu/ril4/)
-<img src="http://www.personal.psu.edu/ril4/image/photo.JPG" width="25%" height="50%" />
+<img src="http://www.personal.psu.edu/ril4/image/photo.JPG" width="25%" />
 
+- [范剑青](http://orfe.princeton.edu/~jqfan/)
 
+- [朱力行](http://www.math.hkbu.edu.hk/~lzhu/)
+<img src="http://www.math.hkbu.edu.hk/~lzhu/images/lzhu.jpg" width="25%" height="25%" />
 
+- [李航](http://www.hangli-hl.com/)
+
+- [张伟平](http://staff.ustc.edu.cn/~zwp/)
+<img src="http://staff.ustc.edu.cn/~zwp/zwp.jpg" width="25%" height="25%" />
+
+- [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/)
+<img src="http://speech.ee.ntu.edu.tw/~tlkagk/lee.png" width="25%" height="25%" />
+
+- [Xiaojin (Jerry) Zhu](http://pages.cs.wisc.edu/~jerryzhu/)
+<img src="http://pages.cs.wisc.edu/~jerryzhu/jerryzhu.jpg" width="25%" height="25%" />
 
