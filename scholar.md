@@ -58,6 +58,15 @@
 
 8. [张 捷](http://www.jeyzhang.com/) 深度学习  机器学习
 
-    
+9. [结构之法 算法之道](http://blog.csdn.net/v_july_v) 邹博
+
+10. [数据挖掘中的十个著名算法](http://blog.csdn.net/taigw/article/details/19407297)
+
+11. [飞跃重洋的思念](http://blog.csdn.net/taigw/article/category/1909901) 机器学习 (13篇)
+
+12. [刘未鹏|C++的罗浮宫](http://blog.csdn.net/pongba) [刘未鹏](http://mindhacks.cn/)  C++ 技法多篇
+
+13. [wds2006sdo的专栏](http://blog.csdn.net/wds2006sdo/article/category/6314784) 机器学习 14篇 李航 统计学习方法
+
     
     
