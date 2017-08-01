@@ -37,3 +37,27 @@
 
 14. [Dirk Eddelbuettel](http://dirk.eddelbuettel.com/)  Rcpp作者 [github](https://github.com/eddelbuettel)
 
+15. [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/) deep learning 
+ 
+## 深度学习专栏
+
+1. [shouhuxianjian的专栏](http://blog.csdn.net/shouhuxianjian) 或者[仙守](http://www.cnblogs.com/shouhuxianjian/) theano (27篇)   machine learning (30篇) 
+    Geoffrey E. Hinton的CSC321课程(17篇)    OpenCV (15篇)
+
+2. [龙心尘](http://blog.csdn.net/longxinchen_ml)  斯坦福大学CS224d课程 (9篇) machine learning (26篇) 
+
+3. [CSDN深度学习专栏](http://blog.csdn.net/column/details/deeplearning.html) 深度学习 (68篇)
+
+4. [zouxy09的专栏](http://blog.csdn.net/zouxy09) 深度学习 (18篇) 机器学习 计算机视觉 (共73篇)
+
+5. [MultimediaComputingGroup_blogs](http://blog.csdn.net/u013854886) 深度学习 (13篇) Caffe
+
+6. [Poll的笔记](http://www.cnblogs.com/maybe2030/) 机器学习 深度学习 凡20余篇
+
+7. [算法组](http://suanfazu.com/) 大量 深度学习 机器学习 Kaggle 等 资料
+
+8. [张 捷](http://www.jeyzhang.com/) 深度学习  机器学习
+
+    
+    
+    
