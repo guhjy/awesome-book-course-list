@@ -69,4 +69,35 @@
 13. [wds2006sdo的专栏](http://blog.csdn.net/wds2006sdo/article/category/6314784) 机器学习 14篇 李航 统计学习方法
 
     
-    
+## 数据挖掘专栏
+
+1. [Support Vector Machines (SVMs)](http://www.svms.org/)    支持向量机
+
+2. [edvancer博客](http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part1/) Logistic 回归 决策树 支持向量机
+
+3. [机器学习性能和方法比较](http://rpubs.com/m3cinc/Benchmarking_20_Machine_Learning_Models_Accuracy_and_Speed) 机器学习方法和性能比较 R
+
+4. [SVM in Practice](https://girlincomputerscience.blogspot.jp/2015/02/svm-in-practice.html) 支持向量机实战 R
+
+5. [visualizing classifier performance in R](https://rocr.bioinf.mpi-sb.mpg.de/) 可视化分类器性能 R
+
+6. [如何确定最适合数据集的机器学习算法](http://datartisan.com/article/detail/86.html) R
+   [英文原帖](http://machinelearningmastery.com/spot-check-machine-learning-algorithms-in-r/)
+
+7. [Handling Class Imbalance with R and Caret - Caveats when using the AUC](https://dpmartin42.github.io/) 处理非平衡数据集 R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
