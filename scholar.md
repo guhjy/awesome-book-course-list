@@ -38,6 +38,30 @@
 14. [Dirk Eddelbuettel](http://dirk.eddelbuettel.com/)  Rcpp作者 [github](https://github.com/eddelbuettel)
 
 15. [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/) deep learning 
+
+16. [Ross Ihaka](https://www.stat.auckland.ac.nz/~ihaka/) one of the originators of the R statistical software system
+
+17. [Paul Murrell](https://www.stat.auckland.ac.nz/~paul/) grid 绘图系统
+
+18. [Di Cook](http://dicook.org/) 谢益辉 Hadley Wickham 的博士生导师
+
+19. [Robert Gentleman](https://researchers.23andme.org/robert-gentleman-phd) one of the originators of the R programming language
+
+20. [Robert G. Brown](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) dieharder程序（随机数质量检测标准之一）开发者
+
+21. [Richard Xu](http://www-staff.it.uts.edu.au/~ydxu/index.htm)  Image Processing and Pattern Recognition 
+
+22. [John P. Cunningham](http://stat.columbia.edu/~cunningham/) machine learning and its application to science and industry
+
+23. [Tilman Davies](http://www.stats.otago.ac.nz/?people=tilman_davies) The Book of R: A First Course in Programming and Statistics 的作者，这是一本大砖头书
+
+24. [Thomas J. Leeper](http://thomasleeper.com/)  rio 包作者 R hacker
+
+25. [Andrew W. Moore](http://www.cs.cmu.edu/~awm/index.html) statistical machine learning, artificial intelligence, robotics, and statistical computation for large volumes of data
+
+26. [Wilke Lab](http://wilkelab.org/) The Wilke Lab carries out research in computational evolutionary biology, bioinformatics, and structural biology
+
+27. [Trevor Hastie](https://web.stanford.edu/~hastie/) 家喻户晓
  
 ## 深度学习专栏
 
