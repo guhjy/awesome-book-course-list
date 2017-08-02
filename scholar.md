@@ -86,8 +86,13 @@
 
 7. [Handling Class Imbalance with R and Caret - Caveats when using the AUC](https://dpmartin42.github.io/) 处理非平衡数据集 R
 
+8. [Feature Selection with caret's Genetic Algorithm Option](http://blog.revolutionanalytics.com/2015/12/caret-genetic.html) caret的遗传算法选项做特征选择
 
+9. [Gradient Boosting: Analysis of LendingClub’s Data](http://kldavenport.com/gradient-boosting-analysis-of-lendingclubs-data/) 梯度提升 R
 
+10. [xgboost: 速度快效果好的 boosting 模型](https://cosx.org/2015/03/xgboost)  梯度提升 R
+
+11. [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) 支持向量机
 
 
 
