@@ -62,6 +62,30 @@
 26. [Wilke Lab](http://wilkelab.org/) The Wilke Lab carries out research in computational evolutionary biology, bioinformatics, and structural biology
 
 27. [Trevor Hastie](https://web.stanford.edu/~hastie/) 家喻户晓
+
+28. [Statistical Modelling with R](http://www.wekaleamstudios.co.uk/) Software for Exploratory Data Analysis and Statistical Modelling 一个统计模型 R LaTeX 资源网站
+
+29. [Tony Hirst](https://blog.ouseful.info/2015/07/22/doodling-with-3d-animated-charts-in-r/) Doodling With 3d Animated Charts in R 博客网站
+
+30. [Rob Kabacoff](http://www.statmethods.net/) Quick-R 博客站点
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 ## 深度学习专栏
 
