@@ -69,8 +69,9 @@
 
 30. [Rob Kabacoff](http://www.statmethods.net/) Quick-R 博客站点
 
+31. [Data on tour: Plotting 3D maps and location tracks](https://shiring.github.io/maps/2017/04/09/gran_canaria) 路径可视化
 
-
+32. [Shirin Glander](https://shiring.github.io/) 非常棒的数据可视化网站
 
 
 
