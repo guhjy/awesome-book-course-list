@@ -73,6 +73,13 @@
 
 32. [Shirin Glander](https://shiring.github.io/) 非常棒的数据可视化网站
 
+33. [Rob J Hyndman](https://robjhyndman.com/)  forecast 包作者  时间序列分析  [github](https://github.com/robjhyndman/)
+
+34. [Antonio Piccolboni](http://piccolboni.info/)  [github](https://github.com/piccolbo)  R hadoop Spark MPI Mapreduce
+
+35. [Max Woolf](http://minimaxir.com/)  数据分析 数据可视化  R  python搜集数据  ggplot2 绘图 [github](https://github.com/minimaxir)
+
+36. [evorithmics](https://blog.evorithmics.org/)  遗传算法 模拟退火算法 启发式算法 [进化何时跑赢局部搜索](https://blog.evorithmics.org/2016/01/31/when-will-evolution-outperform-local-search/)
 
 
 ## 数据可视化
