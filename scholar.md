@@ -81,13 +81,17 @@
 
 36. [evorithmics](https://blog.evorithmics.org/)  遗传算法 模拟退火算法 启发式算法 [进化何时跑赢局部搜索](https://blog.evorithmics.org/2016/01/31/when-will-evolution-outperform-local-search/)
 
+37. [Andrew Gelman](http://andrewgelman.com/) Bayesian Data Analysis (1995, 2003, 2013)
+
+38. [Rasmus Bååth](http://www.sumsar.net/) Bayesian Data Analysis   stan  UseR! 2014-2016
 
 ## 数据可视化
 
 [杜雨](http://raindu.com/)  大量案例画图，主要介绍了大量绘图R包
 
+[张丹](http://blog.fens.me/)  R 的极客理想系列文章  RHadoop 系列文章
 
-
+[Yang Cao](https://www.choyang.me/zh/) 生物信息 R 
 
 
 
