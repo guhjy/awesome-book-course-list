@@ -94,8 +94,11 @@
 [Yang Cao](https://www.choyang.me/zh/) 生物信息 R 
 
 
+## Blogger
 
+1. [elite data science](https://elitedatascience.com/) 9 Mistakes to Avoid When Starting Your Career in Data Science <https://elitedatascience.com/beginner-mistakes>
 
+2. [r-exercises](http://www.r-exercises.com/start-here-to-learn-r/) start-here-to-learn-r <http://www.r-exercises.com/start-here-to-learn-r/>
 
 
 
