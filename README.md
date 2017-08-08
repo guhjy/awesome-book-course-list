@@ -37,8 +37,7 @@
 - Probabilistic Models of Discrete Data
 [homepage](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html)
 
-- ThinkStats2
- [github](https://github.com/AllenDowney/ThinkStats2) Text and supporting code for Think Stats, 2nd Edition
+
 
 ## Blogger
 
@@ -117,6 +116,12 @@
 
 -  R Graphics Cookbook
 [homepage](http://www.cookbook-r.com/)
+
+- ThinkStats2
+ [github](https://github.com/AllenDowney/ThinkStats2) Text and supporting code for Think Stats, 2nd Edition
+ 
+ - Statistical Rethinking course and book package
+ [github](https://github.com/rmcelreath/rethinking) This R package accompanies a course and book on Bayesian data analysis (McElreath 2016. Statistical Rethinking. CRC Press.). It contains tools for conducting both MAP estimation and Hamiltonian Monte Carlo (through RStan - mc-stan.org). These tools force the user to specify the model as a list of explicit distributional assumptions. This is more tedious than typical formula-based tools, but it is also much more flexible and powerful.
 
 ## videos
 
