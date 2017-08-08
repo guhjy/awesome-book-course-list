@@ -6,4 +6,4 @@
 
 3. [bigmemory](http://www.cybaea.net/journal/2010/08/05/Big-data-for-R/) bigmemory相关R包，处理大型矩阵，数据类型为 integer 数值矩阵
 
-
+4. [数据抓取](http://deanattali.com/blog/user2017/) What makes an R talk popular? Scraping useR2017 attendance information to find out!
