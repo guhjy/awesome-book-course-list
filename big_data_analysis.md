@@ -1,3 +1,9 @@
 ## big data analysis
 
 1. [Using sparklyr with Microsoft R Server](http://blog.revolutionanalytics.com/big-data/)  包含视频和幻灯片
+
+2. [h2o](https://github.com/h2oai/h2o-3/tree/master/h2o-r/demos) 官方大量实例
+
+3. [bigmemory](http://www.cybaea.net/journal/2010/08/05/Big-data-for-R/) bigmemory相关R包，处理大型矩阵，数据类型为 integer 数值矩阵
+
+
