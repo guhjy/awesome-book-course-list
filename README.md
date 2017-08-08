@@ -37,6 +37,9 @@
 - Probabilistic Models of Discrete Data
 [homepage](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html)
 
+- ThinkStats2
+ [github](https://github.com/AllenDowney/ThinkStats2) Text and supporting code for Think Stats, 2nd Edition
+
 ## Blogger
 
 - 38 great resources for learning data mining concepts and techniques
