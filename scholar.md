@@ -85,6 +85,8 @@
 
 38. [Rasmus Bååth](http://www.sumsar.net/) Bayesian Data Analysis   stan  UseR! 2014-2016
 
+39. [Norm Matloff](http://heather.cs.ucdavis.edu/matloff.html) [wordpress](https://matloff.wordpress.com/) [github](https://github.com/matloff) 主页含有大量介绍和资源
+
 ## 数据可视化
 
 [杜雨](http://raindu.com/)  大量案例画图，主要介绍了大量绘图R包
