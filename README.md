@@ -73,6 +73,9 @@
 
 ## Book
 
+- Data Visualisation with R – 100 Examples  非常漂亮的图形绘制手册
+[online](http://www.datavisualisation-r.com/)
+
 - Social Network Analysis in Education
  [github](https://github.com/meefen/sna-ed)
  [online](https://bookdown.org/chen/snaEd/)
