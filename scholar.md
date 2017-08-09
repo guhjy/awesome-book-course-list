@@ -85,7 +85,7 @@
 
 38. [Rasmus Bååth](http://www.sumsar.net/) Bayesian Data Analysis   stan  UseR! 2014-2016
 
-39. [Norm Matloff](http://heather.cs.ucdavis.edu/matloff.html) [wordpress](https://matloff.wordpress.com/) [github](https://github.com/matloff) 主页含有大量介绍和资源
+39. [Norm Matloff](http://heather.cs.ucdavis.edu/matloff.html)  博客 [wordpress](https://matloff.wordpress.com/)  [github](https://github.com/matloff) 主页含有大量介绍和资源 [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook)
 
 ## 数据可视化
 
