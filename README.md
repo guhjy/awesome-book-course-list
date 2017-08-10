@@ -73,6 +73,8 @@
 
 ## Book
 
+- Jupyter Notebooks for the Python Data Science Handbook  完整免费的书籍 打包在github <https://github.com/jakevdp/PythonDataScienceHandbook>
+
 - Data Visualisation with R – 100 Examples  非常漂亮的图形绘制手册
 [online](http://www.datavisualisation-r.com/)
 
