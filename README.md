@@ -73,6 +73,14 @@
 
 ## Book
 
+- The "Python Machine Learning" book code repository and info resource [github](https://github.com/rasbt/python-machine-learning-book)
+
+- Introduction to R for Data Science, Data Science Serbia + Startit Center, Belgrade, Autumn 2016.
+[github](https://github.com/GoranMilovanovic/Introduction-to-R-for-Data-Science)
+
+- Tutorial on text-mining and distributional semantics with {tm}, {openNLP}, and {topicmodels} in R. Based on my BelgradeR Meetup - Methods of Distributional Semantics in R - 11/30/2016, Startit Center, Savska 5, Belgrade.
+[github](https://github.com/GoranMilovanovic/Distributional-Semantics-in-R)
+
 - Jupyter Notebooks for the Python Data Science Handbook  完整免费的书籍 打包在github <https://github.com/jakevdp/PythonDataScienceHandbook>
 
 - Data Visualisation with R – 100 Examples  非常漂亮的图形绘制手册
