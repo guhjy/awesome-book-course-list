@@ -73,6 +73,10 @@
 
 ## Book
 
+- [A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly)](https://github.com/jakevdp/WhirlwindTourOfPython)
+
+- [An Introduction to Statistical Learning](https://github.com/asadoughi/stat-learning) [主页](http://asadoughi.github.io/stat-learning)
+
 - [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python](https://github.com/rasbt/deep-learning-book)
 
 - [Tidy Text Mining with R](http://tidytextmining.com/) [github](https://github.com/dgrtwo/tidy-text-mining)
