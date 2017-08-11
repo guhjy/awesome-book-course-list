@@ -73,6 +73,11 @@
 
 ## Book
 
+- [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python](https://github.com/rasbt/deep-learning-book)
+
+- [Tidy Text Mining with R](http://tidytextmining.com/) [github](https://github.com/dgrtwo/tidy-text-mining)
+Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson
+
 - The "Python Machine Learning" book code repository and info resource [github](https://github.com/rasbt/python-machine-learning-book)
 
 - Introduction to R for Data Science, Data Science Serbia + Startit Center, Belgrade, Autumn 2016.
