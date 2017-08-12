@@ -2,6 +2,8 @@
 
 ## Book with Course
 
+- [Biomedical Data Science](http://genomicsclass.github.io/book/) 生物医学数据科学 视频 Rmd源文件 书 课程edX
+
 - Computational and Inferentinal Thinking: The Foundations of Data Science
 [Github](https://github.com/data-8/textbook)
 [pdf](https://raw.githubusercontent.com/data-8/textbook/gh-pages/book.pdf)
