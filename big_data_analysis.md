@@ -1,3 +1,14 @@
+## data sets
+
+1. [OpenML](https://www.openml.org/) 开放数据
+
+2. [GDELT Project](https://www.gdeltproject.org/data.html)
+
+3. [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/)  Amazon review data亚马逊数据集
+
+4. []()
+
+
 ## big data analysis
 
 1. [Using sparklyr with Microsoft R Server](http://blog.revolutionanalytics.com/big-data/)  包含视频和幻灯片
