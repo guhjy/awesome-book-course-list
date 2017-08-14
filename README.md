@@ -75,6 +75,11 @@
 
 ## Book
 
+- [Spatial Point Patterns: Methodology and Applications with R](http://book.spatstat.org/) 配套网站（包含代码、勘误、样章） 类似Advanced R website的风格
+
+- [Applied Spatial Data Analysis with R](http://www.asdar-book.org/) 这本书家喻户晓 配套网站，基本同上
+
+
 - [A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly)](https://github.com/jakevdp/WhirlwindTourOfPython)
 
 - [An Introduction to Statistical Learning](https://github.com/asadoughi/stat-learning) [主页](http://asadoughi.github.io/stat-learning)
