@@ -79,6 +79,7 @@
 
 - [Applied Spatial Data Analysis with R](http://www.asdar-book.org/) 这本书家喻户晓 配套网站，基本同上
 
+- [Geocomputation with R](http://robinlovelace.net/geocompr/) 在线书
 
 - [A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly)](https://github.com/jakevdp/WhirlwindTourOfPython)
 
