@@ -6,8 +6,11 @@
 
 3. [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/)  Amazon review data亚马逊数据集
 
-4. []()
+4. [空间数据可视化_美国人口普查数据](http://www.darkhorseanalytics.com/blog/visualizations-twisted-path)
 
+5. [USGS-R](https://owi.usgs.gov/R/) 美国地质调查局 数据 R语言接口
+
+6. [UC Davis Soil Resource Laboratory](https://casoilresource.lawr.ucdavis.edu/) 加州大学戴维斯分校土壤资源实验室  很多学习R的资源
 
 ## big data analysis
 
