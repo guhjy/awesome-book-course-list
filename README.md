@@ -75,6 +75,8 @@
 
 ## Book
 
+- [Spatial Microsimulation with R](http://robinlovelace.net/spatial-microsim-book/) 免费在线书 提供pdf
+
 - [An Introduction to Spatial Econometrics in R](http://www.econ.uiuc.edu/~lab/workshop/Spatial_in_R.html) 空间计量经济学
 
 - [Spatial Point Patterns: Methodology and Applications with R](http://book.spatstat.org/) 配套网站（包含代码、勘误、样章） 类似Advanced R website的风格
