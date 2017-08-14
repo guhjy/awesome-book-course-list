@@ -75,6 +75,8 @@
 
 ## Book
 
+- [An Introduction to Spatial Econometrics in R](http://www.econ.uiuc.edu/~lab/workshop/Spatial_in_R.html) 空间计量经济学
+
 - [Spatial Point Patterns: Methodology and Applications with R](http://book.spatstat.org/) 配套网站（包含代码、勘误、样章） 类似Advanced R website的风格
 
 - [Applied Spatial Data Analysis with R](http://www.asdar-book.org/) 这本书家喻户晓 配套网站，基本同上
