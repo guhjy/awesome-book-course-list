@@ -75,6 +75,8 @@
 
 ## Book
 
+- [Forecasting: Principles and Practice](http://otexts.org/fpp2/) Rob J Hyndman  George Athanasopoulos
+
 - [Spatial Microsimulation with R](http://robinlovelace.net/spatial-microsim-book/) 免费在线书 提供pdf
 
 - [An Introduction to Spatial Econometrics in R](http://www.econ.uiuc.edu/~lab/workshop/Spatial_in_R.html) 空间计量经济学
