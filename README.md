@@ -159,8 +159,8 @@ Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robins
  [github](https://github.com/AllenDowney/ThinkStats2) Text and supporting code for Think Stats, 2nd Edition
  
  - Statistical Rethinking course and book package
- [github](https://github.com/rmcelreath/rethinking) This R package accompanies a course and book on Bayesian data analysis (McElreath 2016. Statistical Rethinking. CRC Press.). It contains tools for conducting both MAP estimation and Hamiltonian Monte Carlo (through RStan - mc-stan.org). These tools force the user to specify the model as a list of explicit distributional assumptions. This is more tedious than typical formula-based tools, but it is also much more flexible and powerful.
-
+ [github](https://github.com/rmcelreath/rethinking) **rethinking** R package accompanies a course and book on Bayesian data analysis (McElreath 2016. Statistical Rethinking. CRC Press.). It contains tools for conducting both MAP estimation and Hamiltonian Monte Carlo (through RStan - mc-stan.org).
+ 
 ## videos
 
 - useR! 2016 international R User conference
