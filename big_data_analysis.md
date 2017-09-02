@@ -27,8 +27,10 @@
 6. [Qiu Yixuan 邱怡轩](http://statr.me/2011/10/large-regression/) 大规模（超出内存的）线性回归，将数据写入SQLite，回归计算转化为SQL语句，以时间换空间
 
 7. [RHive](https://github.com/nexr/RHive)  RHive is an R extension facilitating distributed computing via Apache Hive. <http://nexr.github.io/RHive>  很不错的工具 可惜 作者不维护了  CRAN 上也把这个包下架了  最新版本 nexr-rhive-2.0.10-ranger-2
-张丹 <http://blog.fens.me/finance-rhive-repurchase/> 用RHive从历史数据中提取逆回购信息
+
+   张丹 <http://blog.fens.me/finance-rhive-repurchase/> 用RHive从历史数据中提取逆回购信息
 
 8. [RHadoop-tutorial](https://github.com/andrie/RHadoop-tutorial) A tutorial on R and Hadoop, using the RHadoop project
-张丹 <http://blog.fens.me/series-rhadoop/> RHadoop实践系列文章
+
+   张丹 <http://blog.fens.me/series-rhadoop/> RHadoop实践系列文章
 
