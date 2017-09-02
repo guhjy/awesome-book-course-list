@@ -34,3 +34,4 @@
 
    张丹 <http://blog.fens.me/series-rhadoop/> RHadoop实践系列文章
 
+9. [RHIPE](https://github.com/delta-rho/RHIPE)  R and Hadoop Integrated Programming Environment 更新至2015年
