@@ -35,3 +35,25 @@
    张丹 <http://blog.fens.me/series-rhadoop/> RHadoop实践系列文章
 
 9. [RHIPE](https://github.com/delta-rho/RHIPE)  R and Hadoop Integrated Programming Environment 更新至2015年
+
+
+
+## 待学习的大数据 RStudio 的产品
+
+<https://github.com/rstudio/>
+
+sparkinstall   Cross-platform installer for Apache Spark
+
+sparklyr    R interface for Apache Spark
+
+keras tensorflow  深度学习框架
+
+shiny  交互式展示 shinydashboard 包  Shiny Dashboarding framework    flexdashboard 包
+
+
+
+
+
+
+
+
