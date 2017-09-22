@@ -78,6 +78,9 @@
 - Alexej Gossmann
 [homepage](http://www.alexejgossmann.com/)
 
+- Scott Stoltzman
+[homepage](https://www.stoltzmaniac.com/)
+
 ## Book
 
 - [Forecasting: Principles and Practice](http://otexts.org/fpp2/) Rob J Hyndman  George Athanasopoulos
