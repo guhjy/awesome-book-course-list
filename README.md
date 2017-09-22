@@ -75,6 +75,9 @@
 - CYBAEA
 [homepage](http://www.cybaea.net/)
 
+- Alexej Gossmann
+[homepage](http://www.alexejgossmann.com/)
+
 ## Book
 
 - [Forecasting: Principles and Practice](http://otexts.org/fpp2/) Rob J Hyndman  George Athanasopoulos
